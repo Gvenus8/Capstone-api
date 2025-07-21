@@ -1,0 +1,226 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "bio": "cool person\n"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "bio": "edit\n"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Ethan Hunt",
+      "email": "ethan@example.com"
+    },
+    {
+      "email": "garyjdougherty@gmail.com",
+      "name": "gary venus",
+      "id": 6
+    },
+    {
+      "email": "jeni.landau@gmail.com",
+      "name": "jeni Venus",
+      "id": 7
+    },
+    {
+      "email": "dylan@didlos.org",
+      "name": "dylan trainer",
+      "id": 8
+    },
+    {
+      "email": "dtrain@yahoo.org",
+      "name": "d train",
+      "id": 9
+    },
+    {
+      "email": "Dylanjohnson263@gmail.com",
+      "fullName": "d train",
+      "id": 10
+    }
+  ],
+  "favMusicChoices": [
+    {
+      "id": 1,
+      "genre": "Rock"
+    },
+    {
+      "id": 2,
+      "genre": "Pop"
+    },
+    {
+      "id": 3,
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": 4,
+      "genre": "Electronic"
+    },
+    {
+      "id": 5,
+      "genre": "Jazz"
+    }
+  ],
+  "favColorChoices": [
+    {
+      "id": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 2,
+      "color": "Red"
+    },
+    {
+      "id": 3,
+      "color": "Green"
+    },
+    {
+      "id": 4,
+      "color": "Purple"
+    },
+    {
+      "id": 5,
+      "color": "Orange"
+    }
+  ],
+  "currentEmotionChoices": [
+    {
+      "id": 1,
+      "emotion": "Happy"
+    },
+    {
+      "id": 2,
+      "emotion": "Excited"
+    },
+    {
+      "id": 3,
+      "emotion": "Calm"
+    },
+    {
+      "id": 4,
+      "emotion": "Energetic"
+    },
+    {
+      "id": 5,
+      "emotion": "Nostalgic"
+    }
+  ],
+  "adjectiveChoices": [
+    {
+      "id": 1,
+      "adjective": "Bold"
+    },
+    {
+      "id": 2,
+      "adjective": "Gentle"
+    },
+    {
+      "id": 3,
+      "adjective": "Vibrant"
+    },
+    {
+      "id": 4,
+      "adjective": "Mysterious"
+    },
+    {
+      "id": 5,
+      "adjective": "Playful"
+    }
+  ],
+  "userArt": [
+    {
+      "userId": 1,
+      "favMusicChoiceId": 1,
+      "favColorChoiceId": 1,
+      "currentEmotionChoiceId": 1,
+      "adjectiveChoiceId": 1,
+      "title": "gavin",
+      "id": 2
+    }
+  ],
+  "community": [],
+  "monsters": [
+    {
+      "id": 4,
+      "url": "/images/monster4.gif"
+    },
+    {
+      "id": 5,
+      "url": "https://64.media.tumblr.com/tumblr_mcchojgkjR1rreqgwo1_500.gif"
+    },
+    {
+      "id": 6,
+      "url": "https://cdna.artstation.com/p/assets/images/images/057/799/008/original/will-tomorrow-weird-scientist-32b.gif?1672699928"
+    },
+    {
+      "id": 7,
+      "url": "https://opengameart.org/sites/default/files/horror%20idle.gif"
+    },
+    {
+      "id": 8,
+      "url": "https://cdn4.iconfinder.com/data/icons/random-8-bit-pixel/512/monster-512.png"
+    },
+    {
+      "id": 9,
+      "url": "https://img.itch.zone/aW1hZ2UvMTM0NTY4Mi83ODMyMDMyLmdpZg==/original/S%2FTd6t.gif"
+    },
+    {
+      "id": 10,
+      "url": "https://cdn.gamedevmarket.net/wp-content/uploads/20191203193341/c6ecdbbce9a5a87214e16404454cf901910413ba.gif"
+    },
+    {
+      "id": 11,
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/027/517/582/small_2x/pixel-cartoon-swamp-monster-png.png"
+    },
+    {
+      "id": 12,
+      "url": "https://png.pngtree.com/png-vector/20220707/ourmid/pngtree-blue-monster-in-the-style-of-pixel-art-png-image_5727896.png"
+    },
+    {
+      "id": 13,
+      "url": "https://media.tenor.com/qANjmZo5MscAAAAj/monster-boss.gif"
+    },
+    {
+      "id": 14,
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/027/190/981/small_2x/pixel-art-monster-character-4-png.png"
+    },
+    {
+      "id": 15,
+      "url": "https://cdn.gamedevmarket.net/wp-content/uploads/20191203193414/df40ac67288c750b6c22fc915450925737e9dbfb.gif"
+    },
+    {
+      "id": 16,
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/027/517/504/small_2x/pixel-art-water-monster-character-png.png"
+    },
+    {
+      "id": 17,
+      "url": "https://i.pinimg.com/originals/3c/47/62/3c4762501946466b07f18ef2cb695fed.gif"
+    },
+    {
+      "id": 18,
+      "url": "https://w7.pngwing.com/pngs/350/517/png-transparent-pixel-art-digital-art-monster-pixel-art-blue-mammal-carnivoran.png"
+    },
+    {
+      "id": 19,
+      "url": "https://p.kindpng.com/picc/s/496-4966202_sans-head-png-clipart-png-download-spinning-pixel.png"
+    },
+    {
+      "id": 20,
+      "url": "https://image.pngaaa.com/554/3563554-middle.png"
+    }
+  ]
+}
