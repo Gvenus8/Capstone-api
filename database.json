@@ -2,131 +2,121 @@
   "users": [
     {
       "id": 1,
-      "name": "Alice Johnson",
-      "email": "alice@example.com",
-      "bio": "cool person\n"
+      "name": "D TRAIN",
+      "email": "dtrain@example.com",
+      "totalScore": 0
     },
     {
       "id": 2,
-      "name": "Bob Smith",
-      "email": "bob@example.com",
-      "bio": "edit\n"
+      "name": "Steven",
+      "email": "steven@example.com",
+      "totalScore": 0
     },
     {
       "id": 3,
-      "name": "Charlie Brown",
-      "email": "charlie@example.com"
+      "name": "Kbar",
+      "email": "kbar@example.com",
+      "totalScore": 0
     },
     {
       "id": 4,
-      "name": "Diana Prince",
-      "email": "diana@example.com"
+      "name": "the Dom",
+      "email": "dom@example.com",
+      "totalScore": 0
     },
     {
       "id": 5,
-      "name": "Ethan Hunt",
-      "email": "ethan@example.com"
+      "name": "Davin",
+      "email": "Davin@example.com",
+      "totalScore": 0
     },
     {
-      "email": "garyjdougherty@gmail.com",
+      "id": 6,
       "name": "gary venus",
-      "id": 6
+      "email": "garyjdougherty@gmail.com",
+      "totalScore": 256
     },
     {
-      "email": "jeni.landau@gmail.com",
-      "name": "jeni Venus",
-      "id": 7
-    },
-    {
-      "email": "dylan@didlos.org",
-      "name": "dylan trainer",
-      "id": 8
-    },
-    {
-      "email": "dtrain@yahoo.org",
-      "name": "d train",
-      "id": 9
-    },
-    {
-      "email": "Dylanjohnson263@gmail.com",
-      "fullName": "d train",
-      "id": 10
+      "id": 7,
+      "name": "Michael",
+      "email": "michael@example.com",
+      "totalScore": 0
     }
   ],
   "favMusicChoices": [
     {
       "id": 1,
-      "genre": "Rock"
+      "genre": "Old School"
     },
     {
       "id": 2,
-      "genre": "Pop"
+      "genre": "Doom"
     },
     {
       "id": 3,
-      "genre": "Hip-Hop"
+      "genre": "Thrash"
     },
     {
       "id": 4,
-      "genre": "Electronic"
+      "genre": "Death"
     },
     {
       "id": 5,
-      "genre": "Jazz"
+      "genre": "Black"
     }
   ],
   "favColorChoices": [
     {
       "id": 1,
-      "color": "Blue"
+      "color": "Slayer"
     },
     {
       "id": 2,
-      "color": "Red"
+      "color": "Metallica"
     },
     {
       "id": 3,
-      "color": "Green"
+      "color": "Megadeath"
     },
     {
       "id": 4,
-      "color": "Purple"
+      "color": "Anthrax"
     },
     {
       "id": 5,
-      "color": "Orange"
+      "color": "DRI"
     }
   ],
   "currentEmotionChoices": [
     {
       "id": 1,
-      "emotion": "Happy"
+      "emotion": "Guitar"
     },
     {
       "id": 2,
-      "emotion": "Excited"
+      "emotion": "Microphone"
     },
     {
       "id": 3,
-      "emotion": "Calm"
+      "emotion": "Bass"
     },
     {
       "id": 4,
-      "emotion": "Energetic"
+      "emotion": "Drums"
     },
     {
       "id": 5,
-      "emotion": "Nostalgic"
+      "emotion": "Roses"
     }
   ],
   "adjectiveChoices": [
     {
       "id": 1,
-      "adjective": "Bold"
+      "adjective": "Sharp"
     },
     {
       "id": 2,
-      "adjective": "Gentle"
+      "adjective": "Gritty"
     },
     {
       "id": 3,
@@ -138,21 +128,20 @@
     },
     {
       "id": 5,
-      "adjective": "Playful"
+      "adjective": "Morbid"
     }
   ],
   "userArt": [
     {
-      "userId": 1,
-      "favMusicChoiceId": 1,
-      "favColorChoiceId": 1,
-      "currentEmotionChoiceId": 1,
-      "adjectiveChoiceId": 1,
-      "title": "gavin",
-      "id": 2
+      "userId": 6,
+      "favMusicChoiceId": 3,
+      "favColorChoiceId": 5,
+      "currentEmotionChoiceId": 5,
+      "adjectiveChoiceId": 3,
+      "title": "Paprika",
+      "id": 1
     }
   ],
-  "community": [],
   "monsters": [
     {
       "id": 4,
@@ -203,10 +192,6 @@
       "url": "https://cdn.gamedevmarket.net/wp-content/uploads/20191203193414/df40ac67288c750b6c22fc915450925737e9dbfb.gif"
     },
     {
-      "id": 16,
-      "url": "https://static.vecteezy.com/system/resources/thumbnails/027/517/504/small_2x/pixel-art-water-monster-character-png.png"
-    },
-    {
       "id": 17,
       "url": "https://i.pinimg.com/originals/3c/47/62/3c4762501946466b07f18ef2cb695fed.gif"
     },
@@ -215,8 +200,12 @@
       "url": "https://w7.pngwing.com/pngs/350/517/png-transparent-pixel-art-digital-art-monster-pixel-art-blue-mammal-carnivoran.png"
     },
     {
+      "id": 16,
+      "url": "https://img1.picmix.com/output/stamp/normal/5/9/6/5/2385695_f4244.gif"
+    },
+    {
       "id": 19,
-      "url": "https://p.kindpng.com/picc/s/496-4966202_sans-head-png-clipart-png-download-spinning-pixel.png"
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/027/517/504/small_2x/pixel-art-water-monster-character-png.png"
     },
     {
       "id": 20,
